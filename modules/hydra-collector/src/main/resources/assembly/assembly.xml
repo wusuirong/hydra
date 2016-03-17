@@ -30,6 +30,7 @@
         <fileSet>
             <directory>/src/main/resources/scripts</directory>
             <outputDirectory>/bin</outputDirectory>
+            <fileMode>0755</fileMode>
             <includes>
                 <include>*.*</include>
             </includes>
